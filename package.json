@@ -1,7 +1,7 @@
 {
   "name": "ftc-scouting",
   "version": "1.0.0",
-  "description": "",
+  "description": "A scouting app that can be used to scout teams in the FIRST Tech Challenge (FTC) robotics competition.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/rohan-nair1/ftc-scouting.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rohan Nair",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/rohan-nair1/ftc-scouting/issues"
   },
